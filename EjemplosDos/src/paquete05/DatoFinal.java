@@ -20,7 +20,7 @@ public class DatoFinal {
             suma = suma + n[i];
         }
         
-        promedio = suma / n.length;
+        promedio = suma / n.length; //length es tamaño del arreglo
         return promedio;
     }
 }
